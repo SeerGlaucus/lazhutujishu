@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /candlestick/01-introduction
+      link: /candlestick/01-锤子线与上吊线
     - theme: alt
       text: GitHub 仓库
       link: https://github.com/SeerGlaucus/lazhutujishu
