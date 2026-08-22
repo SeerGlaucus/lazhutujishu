@@ -16,7 +16,8 @@ export default defineConfig({
         {
           text: '蜡烛图技术',
           items: [
-            { text: '01 锤子线与上吊线', link: '/candlestick/01-锤子线与上吊线' }
+            { text: '01 锤子线与上吊线', link: '/candlestick/01-锤子线与上吊线' },
+            { text: '02 吞没形态', link: '/candlestick/02-吞没形态' }
           ]
         }
       ]
