@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '蜡烛图技术', link: '/candlestick/01-introduction' }
+      { text: '蜡烛图技术', link: '/candlestick/01-锤子线与上吊线' }
     ],
 
     sidebar: {
@@ -16,10 +16,7 @@ export default defineConfig({
         {
           text: '蜡烛图技术',
           items: [
-            { text: '01 蜡烛图基础', link: '/candlestick/01-introduction' },
-            { text: '02 单根K线形态', link: '/candlestick/02-single-patterns' },
-            { text: '03 多根K线组合', link: '/candlestick/03-multi-patterns' },
-            { text: '04 实战应用总结', link: '/candlestick/04-practical' }
+            { text: '01 锤子线与上吊线', link: '/candlestick/01-锤子线与上吊线' }
           ]
         }
       ]
