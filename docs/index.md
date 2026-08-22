@@ -11,7 +11,7 @@ hero:
       link: /candlestick/01-introduction
     - theme: alt
       text: GitHub 仓库
-      link: https://github.com/你的用户名/stock-blog
+      link: https://github.com/SeerGlaucus/lazhutujishu
 
 features:
   - title: 📊 系统梳理
