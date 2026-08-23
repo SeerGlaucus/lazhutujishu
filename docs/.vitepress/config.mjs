@@ -23,7 +23,8 @@ export default defineConfig({
             { text: '04 刺透形态', link: '/candlestick/04-刺透形态' },
             { text: '05 流星线与倒锤子线', link: '/candlestick/05-流星线与倒锤子线' },
             { text: '06 启明星与黄昏星', link: '/candlestick/06-启明星与黄昏星' },
-            { text: '07 反转形态总结', link: '/candlestick/07-反转形态总结' }
+            { text: '07 反转形态总结', link: '/candlestick/07-反转形态总结' },
+            { text: '08 孕线平头与捉腰带线', link: '/candlestick/08-孕线平头与捉腰带线' }
           ]
         }
       ]
