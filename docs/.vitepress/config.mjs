@@ -21,7 +21,9 @@ export default defineConfig({
             { text: '02 吞没形态', link: '/candlestick/02-吞没形态' },
             { text: '03 乌云盖顶', link: '/candlestick/03-乌云盖顶' },
             { text: '04 刺透形态', link: '/candlestick/04-刺透形态' },
-            { text: '05 流星线与倒锤子线', link: '/candlestick/05-流星线与倒锤子线' }
+            { text: '05 流星线与倒锤子线', link: '/candlestick/05-流星线与倒锤子线' },
+            { text: '06 启明星与黄昏星', link: '/candlestick/06-启明星与黄昏星' },
+            { text: '07 反转形态总结', link: '/candlestick/07-反转形态总结' }
           ]
         }
       ]
