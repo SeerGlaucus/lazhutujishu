@@ -20,7 +20,8 @@ export default defineConfig({
             { text: '01 锤子线与上吊线', link: '/candlestick/01-锤子线与上吊线' },
             { text: '02 吞没形态', link: '/candlestick/02-吞没形态' },
             { text: '03 乌云盖顶', link: '/candlestick/03-乌云盖顶' },
-            { text: '04 刺透形态', link: '/candlestick/04-刺透形态' }
+            { text: '04 刺透形态', link: '/candlestick/04-刺透形态' },
+            { text: '05 流星线与倒锤子线', link: '/candlestick/05-流星线与倒锤子线' }
           ]
         }
       ]
